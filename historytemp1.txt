@@ -1,0 +1,1000 @@
+  794  last
+  795  pwd
+  796  cd /
+  797  cd opt/soltein/repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/10.0/solt-jna-src/addons/jna_sale/
+  798  history
+  799  grep -rnw -e 'Residential Local'
+  800  nano  static/src/xml/sales_team_dashboard.xml
+  801  more /opt/soltein/odoo-10.0/odoo/sql_db.py
+  802  grep "confirmation" /opt/soltein/odoo-10.0/odoo/sql_db.py
+  803  nano /opt/soltein/odoo-10.0/odoo/sql_db.py
+  804  nano sale_order.py
+  805  ls
+  806  shutdown -r now 
+  807  ps 
+  808  ps -aux
+  809  more /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf .
+  810  postgres
+  811  pg
+  812  psql 
+  813  psql -d jna_prod -U  odoo -W
+  814  more /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env 
+  815  more /opt/soltein/odoo-10.0/odoo.py
+  816  more /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+  817  history
+  818  pwd
+  819  cd ..
+  820  ls
+  821  cd opt/soltein/repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/10.0/solt-jna-src/addons/jna_sale/models/
+  822  ls
+  823  more __init__.py
+  824  more sale_order.py
+  825  grep -R confirmation
+  826  more /opt/soltein/odoo-10.0/odoo/http.py
+  827  more /opt/soltein/odoo-10.0/odoo/http.py | grep confirmation
+  828  grep /opt/soltein/odoo-10.0/odoo/http.py confirmation
+  829  tail /opt/soltein/odoo-10.0/odoo/http.py
+  830  nano /opt/soltein/odoo-10.0/odoo/http.py
+  831  nano /opt/soltein/odoo-10.0/odoo/sql_db.py
+  832  more /opt/soltein/odoo-10.0/odoo/sql_db.py | grep confi
+  833  iptables /l
+  834  iptables -l
+  835  more /etc/postgresql/10/main/postgresql.conf 
+  836  more /etc/postgresql/10/main/pg_hba.conf 
+  837  nano /etc/postgresql/10/main/pg_hba.conf 
+  838  /etc/init.d/postgresql restart
+  839  iptables -A INPUT -p tcp --dport 5432 -s 189.46.182.122 -j ACCEPT
+  840  nano /etc/postgresql/10/main/pg_hba.conf 
+  841  o
+  842  nano /etc/postgresql/10/main/pg_hba.conf 
+  843  /etc/init.d/postgresql restart
+  844  nano /etc/postgresql/10/main/pg_hba.conf 
+  845  /etc/init.d/postgresql restart
+  846  psql
+  847  psql jna_prod
+  848  psql -u root
+  849  psql --help
+  850  psql -U postgres
+  851  psql -U postgres -w
+  852  psql -U odoo -w
+  853  psql -U odoo -W
+  854  psql -U postgres -W
+  855  psql -U root -W
+  856  nano /etc/postgresql/10/main/pg_hba.conf 
+  857  psql -U postgres -W
+  858  nano /etc/postgresql/10/main/pg_hba.conf 
+  859  nano /etc/postgresql/10/main/pg_hba.conf
+  860  psql -U root -W
+  861  /etc/init.d/postgresql restart
+  862  nano /etc/postgresql/10/main/postgresql.conf 
+  863  /etc/init.d/postgresql restart
+  864  nano /etc/postgresql/10/main/postgresql.conf 
+  865  /etc/init.d/postgresql restart
+  866  nano /etc/postgresql/10/main/postgresql.conf 
+  867  /etc/init.d/postgresql restart
+  868  pwd
+  869  ls
+  870  nano sale_order.py
+  871  serivce odoo restart
+  872  /etc/init.d/history
+  873  history
+  874  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+  875  nano /etc/postgresql/10/main/postgresql.conf 
+  876  /etc/init.d/postgresql restart
+  877  ls
+  878  pwd
+  879  cd ..
+  880  ls
+  881  grep -R residential
+  882  grep -R dential
+  883  nano static/src/xml/sales_team_dashboard.xml 
+  884  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+  885  nano static/src/xml/sales_team_dashboard.xml 
+  886  exit
+  887  ps -aux 
+  888  users
+  889  history
+  890  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+  891  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 stop
+  892  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 start
+  893  ifconfig
+  894  exit
+  895  last
+  896  ps -aux
+  897  ping 51.15.70.178
+  898  ping 51.15.70.178 -an
+  899  ls
+  900  who
+  901  ps -A
+  902  ps -aux
+  903  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 stop
+  904  crontab -l
+  905  crontab -u soltein -l
+  906  exit
+  907  ping 10.21.145.137
+  908  ssh 51.15.96.234
+  909  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 stop
+  910  service -h
+  911  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 --status-all
+  912  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 start
+  913  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 --full-restart
+  914  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 stop
+  915  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 start
+  916  pwd
+  917  cd ..
+  918  ls
+  919  cd etc/
+  920  ls
+  921  history
+  922  shutdown -r now
+  923  df -f
+  924  df
+  925  vgdisplay
+  926  ls
+  927  exit
+  928  pwd
+  929  cd /var/log/traefik/
+  930  du -hs
+  931  rm traefik.log 
+  932  ls
+  933  df 
+  934  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 stop
+  935  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 start
+  936  shutdown -r now 
+  937  df 
+  938  df
+  939  passwd
+  940  exit
+  941  user
+  942  who
+  943  sudo passwd
+  944  exit
+  945  cd /etc/ssh/
+  946  ls
+  947  more sshd_config 
+  948  exit
+  949  pwd
+  950  nano /etc/ssh/sshd_config 
+  951  shutdown -r now
+  952  clear
+  953  ls
+  954  pwd
+  955  ps -aux
+  956  ps 
+  957  ps -a
+  958  ps -aux
+  959  history
+  960  ps -aux
+  961  ps -aL
+  962  ps -auxL
+  963  ps -aux
+  964  cd /etc/init.d/
+  965  ls
+  966  cd ..
+  967  cd init
+  968  ls
+  969  more ssh.conf 
+  970  cd ..
+  971  ls
+  972  pwd
+  973  grep restrict_access.html
+  974  cd ..
+  975  pwd
+  976  locate restrict_access.html
+  977  find . restrict_access.html
+  978  w
+  979  pwd
+  980  cd opt/soltein/odoo-10.0/odoo
+  981  ls
+  982  cd conf/
+  983  ls
+  984  more __init__.py
+  985  cd ..
+  986  cd /
+  987  ls
+  988  cd srv/
+  989  ls
+  990  pwd
+  991  cd ..
+  992  cd etc/
+  993  ls
+  994  cd apache2/
+  995  ls
+  996  cd conf-available/
+  997  ls
+  998  cd ..
+  999  pws
+ 1000  ls
+ 1001  more sudoers
+ 1002  find apache
+ 1003  find apache2
+ 1004  find web
+ 1005  pwd
+ 1006  cd ..
+ 1007  pwd
+ 1008  find web
+ 1009  find web -R
+ 1010  find . web 
+ 1011  cd /etc/opt/
+ 1012  ls
+ 1013  cd ..
+ 1014  ls
+ 1015  cd ..
+ 1016  find . | grep resctict_access.html
+ 1017  more /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf
+ 1018  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2..con
+ 1019  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2..conf
+ 1020  cd /etc/soltein/
+ 1021  ls
+ 1022  more traefik.env 
+ 1023  more instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1024  nano instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1025  history
+ 1026  hutdown -r now 
+ 1027  shutdown -r now 
+ 1028  ps -aux
+ 1029  grep . "/etc/soltein/instance"
+ 1030  grep -R  "/etc/soltein/instance"
+ 1031  pwd
+ 1032  cd ..
+ 1033  grep -R  "/etc/soltein/instance"
+ 1034  more /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env 
+ 1035  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env 
+ 1036  history | grep service
+ 1037  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1038  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env 
+ 1039  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1040  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1041  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 stop
+ 1042  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 start
+ 1043  ls
+ 1044  pwd
+ 1045  cd opt/soltein/odoo-10.0/odoo/addons/
+ 1046  ls
+ 1047  cd web/
+ 1048  ls
+ 1049  cd views/
+ 1050  ls
+ 1051  more database_manager.html 
+ 1052  more webclient_templates.xml 
+ 1053  nano webclient_templates.xml 
+ 1054  grep webclient_templates.xml "manage"
+ 1055  grep "manage" webclient_templates.xml 
+ 1056  cd ..
+ 1057  ls
+ 1058  cd static/
+ 1059  ls
+ 1060  cd src/
+ 1061  ls
+ 1062  cd xml/
+ 1063  ls
+ 1064  more base.xml base
+ 1065  more base.xml
+ 1066  pwd
+ 1067  cd ..
+ 1068  ls
+ 1069  cd ..
+ 1070  ks
+ 1071  ls
+ 1072  cd ..
+ 1073  ls
+ 1074  cd controllers/
+ 1075  ls
+ 1076  more __init__.py
+ 1077  cd ..
+ 1078  cd views/
+ 1079  ls
+ 1080  more webclient_templates.xml 
+ 1081  more webclient_templates.xml |grep manager
+ 1082  cd 
+ 1083  cd opt
+ 1084  cd /opt/
+ 1085  grep -R manager
+ 1086  restrict_access.html
+ 1087  grep -R restrict_access.html
+ 1088  locate -R openerp.py
+ 1089  locate -r openerp.py
+ 1090  find -R  openerp.py
+ 1091  find --help
+ 1092  grep -R oe_login_manage_db
+ 1093  grep -R manage_db
+ 1094  grep -R database
+ 1095  grep -R "manage database"
+ 1096  grep -R 'manage database'
+ 1097  grep -R o_database_create
+ 1098  cd soltein/odoo-10.0/odoo/addons/web/views/
+ 1099  ls
+ 1100  ls -lia
+ 1101  more database_manager.html 
+ 1102  nano database_manager.html 
+ 1103  cp database_manager.html database_manager_backup.html 
+ 1104  rm database_manager.html 
+ 1105  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1106  cd 
+ 1107  cd /etc/
+ 1108  cd soltein/
+ 1109  ls
+ 1110  more instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env 
+ 1111  nano instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env 
+ 1112  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1113  cd
+ 1114  cd /etc/ssh/
+ 1115  nano sshd_config 
+ 1116  shutdown -r now 
+ 1117  clear
+ 1118  cd /etc/soltein/
+ 1119  nano instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1120  history | grep start
+ 1121  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1122  nano instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1123  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1124  nano instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1125  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1126  nano instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1127  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1128  nano instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1129  service instance-bded2bc8-cdff-4473-9609-23173d9fc3b2 restart
+ 1130  pwd
+ 1131  cd ..
+ 1132  ls
+ 1133  cd python/
+ 1134  ls
+ 1135  cd ..
+ 1136  cd /etc/init
+ 1137  ls
+ 1138  more cron.conf 
+ 1139  cd ..
+ 1140  ls
+ 1141  cd init.d/
+ 1142  ls
+ 1143  cd ..
+ 1144  pwd
+ 1145  ls
+ 1146  ps 
+ 1147  ps -aux
+ 1148  cd /
+ 1149  pwd
+ 1150  cd /etc/
+ 1151  ls
+ 1152  cd ssh
+ 1153  ls
+ 1154  nano sshd_config 
+ 1155  service sshd restart
+ 1156  cd \
+ 1157  cd /
+ 1158  cd srv/
+ 1159  ls
+ 1160  cd ..
+ 1161  cd opt/
+ 1162  ls
+ 1163  cd soltein/
+ 1164  ls
+ 1165  cd odoo-10.0
+ 1166  ls
+ 1167  cd odoo
+ 1168  ls
+ 1169  cd addons/
+ 1170  ls
+ 1171  grep -R perenidade
+ 1172  cd merchant/static/js
+ 1173  cd merchant/
+ 1174  cd static/
+ 1175  cd js
+ 1176  ls
+ 1177  cd src/
+ 1178  ls
+ 1179  cd js/
+ 1180  ls
+ 1181  nano merchant.js 
+ 1182  exit
+ 1183  sudo su postgres
+ 1184  exit
+ 1185  hisroty
+ 1186  history
+ 1187  root
+ 1188  pwd
+ 1189  history
+ 1190  cd 
+ 1191  pwd
+ 1192  cd ..
+ 1193  pwd
+ 1194  ls
+ 1195  cd srv/
+ 1196  dir
+ 1197  cd ..
+ 1198  ls
+ 1199  cd opt/
+ 1200  dir
+ 1201  cd soltein/
+ 1202  cd odoo-10.0
+ 1203  ls
+ 1204  cd odoo
+ 1205  ls
+ 1206  cd ..
+ 1207  more requirements.txt 
+ 1208  ls
+ 1209  cd ..
+ 1210  ls
+ 1211  cd repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/1
+ 1212  cd repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/
+ 1213  cd ..
+ 1214  pwd
+ 1215  ls
+ 1216  cd soltein/
+ 1217  ls
+ 1218  cd odoo-10.0
+ 1219  ls
+ 1220  cd odoo
+ 1221  ls
+ 1222  cd addons/
+ 1223  ls
+ 1224  exit
+ 1225  pwd
+ 1226  cd ..
+ 1227  more /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf .
+ 1228  root
+ 1229  pwd
+ 1230  cd opt/soltein/odoo-10.0/odoo/addons/
+ 1231  ls
+ 1232  locate smb
+ 1233  history
+ 1234  grep -R sti-prod
+ 1235  cd sti/static/src/js/
+ 1236  more sti_smb.js 
+ 1237  nano sti_smb.js 
+ 1238  cd ..
+ 1239  get -R 'Total earning'
+ 1240  grep-R 'Total earning'
+ 1241  grep -R 'Total earning'
+ 1242  cd ..
+ 1243  grep -R 'Total earning'
+ 1244  grep -R earning
+ 1245  grep -R "Total Earnings"
+ 1246  grep -R 'Total Earnings'
+ 1247  history
+ 1248  cd \
+ 1249  cd /
+ 1250  pwd
+ 1251  grep -R "Total Earnings"
+ 1252  ls
+ 1253  pwd
+ 1254  history
+ 1255  pwd
+ 1256  ls
+ 1257  cd opt/
+ 1258  ls
+ 1259  cd virtualenvs/
+ 1260  ls
+ 1261  cd odoo-10.0/
+ 1262  ls
+ 1263  cd 
+ 1264  pwd
+ 1265  cd /opt/
+ 1266  grep -R "Total Earning"
+ 1267  more soltein//repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/10.0/solt-jna-src/addons/
+ 1268  cd soltein/repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/
+ 1269  ls
+ 1270  cd 10.0/solt-jna-src/addons/jna_payment/models/
+ 1271  ls
+ 1272  more payments.py
+ 1273  grep -R "Total Earnings"
+ 1274  more payments.py
+ 1275  cd /
+ 1276  clear
+ 1277  cd /opt/soltein
+ 1278  ls
+ 1279  cd /
+ 1280  clear
+ 1281  exit
+ 1282  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env
+ 1283  clear
+ 1284  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env
+ 1285  clear
+ 1286  exit
+ 1287  sudo -u postgres
+ 1288  clear
+ 1289  sudo -su postgres
+ 1290  clear
+ 1291  exit
+ 1292  pwd
+ 1293  history
+ 1294  pwd
+ 1295  cd ..
+ 1296  cd etc/soltein/
+ 1297  ls
+ 1298  cd ..
+ 1299  history
+ 1300  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env 
+ 1301  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.conf 
+ 1302  df
+ 1303  cd /opt/soltein/odoo-10.0/odoo/addons/
+ 1304  grep -r 'Total earning'
+ 1305  grep -R 'Total earning'
+ 1306  cd ..
+ 1307  pwd
+ 1308  cd ..
+ 1309  pwd
+ 1310  ls
+ 1311  cd repos/
+ 1312  ls
+ 1313  cd bded2bc8-cdff-4473-9609-23173d9fc3b2/
+ 1314  ls
+ 1315  cd 10.0/
+ 1316  ls
+ 1317  cd ..
+ 1318  history
+ 1319  ls
+ 1320  cd bded2bc8-cdff-4473-9609-23173d9fc3b2/
+ 1321  ls
+ 1322  cd 10.0/solt-
+ 1323  ls
+ 1324  cd 10.0/
+ 1325  ls
+ 1326  cd ..
+ 1327  ls
+ 1328  cd ..
+ 1329  ls
+ 1330  cd odoo-10.0
+ 1331  ls
+ 1332  cd ..
+ 1333  pwd
+ 1334  cd odoo-10.0/odoo/addons/
+ 1335  ls
+ 1336  grep -R 'Total ear'
+ 1337  cd ../../../
+ 1338  dir
+ 1339  cd ..
+ 1340  ls
+ 1341  cd virtualenvs/
+ 1342  ls
+ 1343  ls -lia
+ 1344  cd odoo-10.0/
+ 1345  ls
+ 1346  cd ..
+ 1347  grep -R 'Total earning'
+ 1348  cd ..
+ 1349  pw
+ 1350  ls
+ 1351  cd srv/
+ 1352  ls
+ 1353  cd ..
+ 1354  cd opt/
+ 1355  ls
+ 1356  cd soltein/
+ 1357  ls
+ 1358  cd odoo-10.0
+ 1359  ls
+ 1360  cd odoo
+ 1361  ls
+ 1362  cd ..
+ 1363  ls
+ 1364  cd ..
+ 1365  ls
+ 1366  cd repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/10.0/
+ 1367  ls
+ 1368  cd solt-jna-src/
+ 1369  l
+ 1370  cd addons/
+ 1371  ls
+ 1372  cd jna_payment/
+ 1373  ls
+ 1374  grep -R 'Total ear'
+ 1375  ls
+ 1376  cd models/
+ 1377  ls
+ 1378  more payments.py
+ 1379  nano payments.py
+ 1380  more payments.py | grep 'Total '
+ 1381  nano payments.py
+ 1382  pwd
+ 1383  cd ..
+ 1384  ls
+ 1385  cd views/
+ 1386  ls
+ 1387  cd ..
+ 1388  cd static/
+ 1389  ls
+ 1390  cd ..
+ 1391  ls
+ 1392  cd models/
+ 1393  ls
+ 1394  more payments.py
+ 1395  more payments.py | grep -R Total
+ 1396  cd /
+ 1397  clear
+ 1398  cd /opt/soltein
+ 1399  ls -la
+ 1400  rm -rf github.com
+ 1401  clear
+ 1402  ls -la
+ 1403  git clone https://github.com/h4ckedneko/odoo-projects.git github.com/h4ckedneko/odoo-projects
+ 1404  ls -la
+ 1405  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env
+ 1406  clear
+ 1407  ls -la
+ 1408  cd repos
+ 1409  ls -la
+ 1410  cd bded2bc8-cdff-4473-9609-23173d9fc3b2
+ 1411  cd 10.0
+ 1412  clear
+ 1413  ls -la
+ 1414  cd solt-jna-src
+ 1415  clear
+ 1416  ls -la
+ 1417  cd addons
+ 1418  clear
+ 1419  ls -la
+ 1420  cd /opt/soltein
+ 1421  ls -la
+ 1422  cd odoo-10.0
+ 1423  ls -la
+ 1424  cd odoo
+ 1425  ls -la
+ 1426  clear
+ 1427  ls
+ 1428  cd addons
+ 1429  ls
+ 1430  exit
+ 1431  cd /opt/soltein
+ 1432  ls -la
+ 1433  cd odoo-10.0
+ 1434  ls -la
+ 1435  cd odoo/addons/web
+ 1436  ls -la
+ 1437  cd views
+ 1438  ls -la
+ 1439  cp webclient_templates.xml webclient_templates.xml.bak
+ 1440  ls -la
+ 1441  clear
+ 1442  ls -la
+ 1443  nano webclient_templates.xml
+ 1444  exit
+ 1445  clear
+ 1446  cd /opt/soltein
+ 1447  ls
+ 1448  cd repo
+ 1449  cd repos
+ 1450  clear
+ 1451  ls -la
+ 1452  cd bded2bc8-cdff-4473-9609-23173d9fc3b2
+ 1453  cd 10.0
+ 1454  ls -la
+ 1455  cd solt-jna-src
+ 1456  ls -la
+ 1457  cd addons
+ 1458  ls -la
+ 1459  cd jna_sale
+ 1460  ls -la
+ 1461  cd security
+ 1462  ls -la
+ 1463  nano security_matriz.xml
+ 1464  cd ..
+ 1465  ls -la
+ 1466  cd ..
+ 1467  ls -la
+ 1468  exit
+ 1469  cd /opt/soltein
+ 1470  exit
+ 1471  cd /opt/soltein/repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/10.0/
+ 1472  cd solt-
+ 1473  ls
+ 1474  pwd
+ 1475  ls -lia
+ 1476  cd solt-jna-src/
+ 1477  ls -lia 
+ 1478  cd addons/
+ 1479  cd jna_payment/
+ 1480  pwd
+ 1481  ls
+ 1482  ls -lia
+ 1483  grep -R 'Total ear']
+ 1484  grep -R 'Total ear'
+ 1485  grep -R 'Total ear' > temp.txt
+ 1486  ls
+ 1487  more temp.txt 
+ 1488  nano temp.txt 
+ 1489  ls -lia
+ 1490  rm temp.txt 
+ 1491  ls -lia
+ 1492  cd /
+ 1493  clear
+ 1494  cd /opt/soltein
+ 1495  clear
+ 1496  ls -la
+ 1497  rm -rf github.com
+ 1498  ls -la
+ 1499  git clone --depth=1 https://github.com/h4ckedneko/odoo-projects.git github.com/h4ckedneko/odoo-projects
+ 1500  git log
+ 1501  clear
+ 1502  ls -la
+ 1503  cd github.com
+ 1504  ls -la
+ 1505  cd h4ckedneko
+ 1506  cd odoo-projects
+ 1507  clear
+ 1508  ls -la
+ 1509  git log
+ 1510  clear
+ 1511  cd /opt/soltein
+ 1512  clear
+ 1513  rm -rf github.com
+ 1514  ls -la
+ 1515  clear
+ 1516  ls -la
+ 1517  git clone --depth=1 https://github.com/h4ckedneko/odoo-projects.git github.com/h4ckedneko/odoo-projects
+ 1518  clear
+ 1519  ls -la
+ 1520  cd github.com/h4ckedneko/odoo-projects
+ 1521  git log
+ 1522  cd /
+ 1523  cd ~
+ 1524  clear
+ 1525  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env
+ 1526  clear
+ 1527  cd /opt/soltein/repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/10.0
+ 1528  ls -la
+ 1529  cd solt-jna-src
+ 1530  ls -la
+ 1531  cd addons
+ 1532  ls -la
+ 1533  cd jna_account
+ 1534  ls -la
+ 1535  cd models
+ 1536  ls -la
+ 1537  cd ../..
+ 1538  ls -la
+ 1539  cd jna_payment
+ 1540  ls -la
+ 1541  cd models
+ 1542  ls -la
+ 1543  cp payments.py payments.py.bak
+ 1544  ls -la
+ 1545  nano payments.py
+ 1546  clear
+ 1547  cd ~
+ 1548  clear
+ 1549  systemctl restart instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.service
+ 1550  clear
+ 1551  exit
+ 1552  clear
+ 1553  cd /opt/soltein
+ 1554  ls -la
+ 1555  rm -rm github.com
+ 1556  rm -rf github.com
+ 1557  clear
+ 1558  ls -la
+ 1559  clear
+ 1560  ls -la
+ 1561  git clone --depth=1 https://github.com/h4ckedneko/odoo-projects.git github.com/h4ckedneko/odoo-projects
+ 1562  clear
+ 1563  cd ~
+ 1564  clear
+ 1565  nano /etc/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.env
+ 1566  clear
+ 1567  systemctl restart instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.service
+ 1568  clear
+ 1569  tail -f /var/log/soltein/instance-bded2bc8-cdff-4473-9609-23173d9fc3b2.log
+ 1570  exit
+ 1571  pwd
+ 1572  cd // 
+ 1573  cd ;
+ 1574  cd /
+ 1575  pwd
+ 1576  ls
+ 1577  cd srv/
+ 1578  ls
+ 1579  cd ..
+ 1580  history
+ 1581  pwd
+ 1582  cd /opt/soltein/repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/
+ 1583  ls
+ 1584  cd 10.0/solt-
+ 1585  cd 10.0
+ 1586  ls
+ 1587  cle
+ 1588  clear
+ 1589  ls
+ 1590  cd solt-jna-src/
+ 1591  ls
+ 1592  cd addons/
+ 1593  ls
+ 1594  cd ..
+ 1595  ls
+ 1596  pwd
+ 1597  ls
+ 1598  clear
+ 1599  ls
+ 1600  cd addons/
+ 1601  ls
+ 1602  cd jna_sale/
+ 1603  ls
+ 1604  cd ..
+ 1605  ls
+ 1606  cd ..
+ 1607  ls
+ 1608  pwd
+ 1609  ls
+ 1610  history
+ 1611  cd /opt/
+ 1612  cd soltein/
+ 1613  ls
+ 1614  cd odoo-10.0
+ 1615  ls
+ 1616  cd odoo
+ 1617  ls
+ 1618  cd addons/
+ 1619  ls
+ 1620  grep SMB
+ 1621  grep -R SMB
+ 1622  cd st
+ 1623  cd salele
+ 1624  cd sale
+ 1625  ls
+ 1626  cd views/
+ 1627  cd ../..
+ 1628  cd sti
+ 1629  more views/sti_menu.xml 
+ 1630  cd ..
+ 1631  grep -R 'AT&T - SMB'
+ 1632  grep -R SMB
+ 1633  cd /opt/soltein/repos/bded2bc8-cdff-4473-9609-23173d9fc3b2/
+ 1634  grep -R SMB
+ 1635  clear
+ 1636  grep -R SMB
+ 1637  grep -R SMB 
+ 1638  grep -R sti-prod
+ 1639  cd
+ 1640  pwd
+ 1641  cd ..
+ 1642  cd /opt/soltein/
+ 1643  grep -R sti-prod
+ 1644  cd odoo-10.0/odoo/addons/sti/static/src/js/
+ 1645  nano sti_smb.js 
+ 1646  cd ..
+ 1647  grep -R merchant
+ 1648  grep -R merchant.jnaenter
+ 1649  clear
+ 1650  grep -R merchant.jnaenter
+ 1651  nano merchant/static/src/js/merchant.js 
+ 1652  pwd
+ 1653  grep -R 'total earni'
+ 1654  cd ../../..
+ 1655  cd repos/
+ 1656  grep -R Total
+ 1657  grep -R "Total Earings"
+ 1658  grep -R "Total Ear"
+ 1659  more bded2bc8-cdff-4473-9609-23173d9fc3b2/
+ 1660  cd bded2bc8-cdff-4473-9609-23173d9fc3b2/
+ 1661  cd 10.0/solt-jna-src/addons/jna_payment/models/
+ 1662  more payments.py
+ 1663  logout
+ 1664  passwd
+ 1665  exit
+ 1666  sudo -i
+ 1667  exit
+ 1668  history
+ 1669  exit
+ 1670  pwd
+ 1671  ls
+ 1672  cd ..
+ 1673  ls
+ 1674  history
+ 1675  dir
+ 1676  ls
+ 1677  pwd
+ 1678  cd dev/
+ 1679  ls
+ 1680  cd ..
+ 1681  ls
+ 1682  cd opt/
+ 1683  ls
+ 1684  cd soltein/
+ 1685  ls
+ 1686  cd ..
+ 1687  ls
+ 1688  cd ..
+ 1689  ls
+ 1690  cd root/.
+ 1691  ls
+ 1692  cd ..
+ 1693  cd usr/
+ 1694  ls
+ 1695  cd ..
+ 1696  ls
+ 1697  cd srv/
+ 1698  ls
+ 1699  cd ..
+ 1700  cd opt/
+ 1701  ls
+ 1702  cd ..
+ 1703  grep cert
+ 1704  history | grep auto
+ 1705  history | grep cert
+ 1706  cd ..
+ 1707  uname -a
+ 1708  uname
+ 1709  history | grep cert
+ 1710  history | grep bot
+ 1711  history | grep let
+ 1712  more /etc/crontab
+ 1713  locate certbot
+ 1714  certbot
+ 1715  pwd
+ 1716  ls
+ 1717  cd /etc/
+ 1718  ks
+ 1719  ls
+ 1720  grep -R cert
+ 1721  grep -R certbot
+ 1722  grep -R lets
+ 1723  ls
+ 1724  cd ..
+ 1725  ls
+ 1726  cd opt/
+ 1727  ls
+ 1728  grep -R lets
+ 1729  grep -R certbot
+ 1730  grep -R encryp
+ 1731  grep -R auto
+ 1732  find -name *auto*
+ 1733  find -name *bot*
+ 1734  find -name *cert*
+ 1735  grep -R Spectrum
+ 1736  cd 
+ 1737  pwd
+ 1738  cd sol
+ 1739  pwd
+ 1740  ls
+ 1741  cd ,,
+ 1742  cd ..
+ 1743  ls
+ 1744  cd opt/
+ 1745  ls
+ 1746  cd soltein/
+ 1747  ls
+ 1748  tar -czvf github.tar.gz github.com/.
+ 1749  ls
+ 1750  mkdir temp 
+ 1751  cd temp 
+ 1752  git clone https://github.com/ricardobnunes/teste2.git
+ 1753  dir
+ 1754  cd teste2/
+ 1755  ks
+ 1756  ls
+ 1757  cp ../../github.tar.gz .
+ 1758  ls
+ 1759  git add
+ 1760  git add .
+ 1761  git status
+ 1762  git commit 
+ 1763  git commit -m temp
+ 1764  git config user.email ricardobnunes@gmail.com
+ 1765  git config user.name ricardo
+ 1766  git commit 
+ 1767  git commit -m temp
+ 1768  git push 
+ 1769  cd ..
+ 1770  ls
+ 1771  cd github.com/
+ 1772  ls
+ 1773  cd h4ckedneko/
+ 1774  ls
+ 1775  cd odoo-projects/
+ 1776  ls
+ 1777  cd addons/
+ 1778  ls
+ 1779  cd jna_sales_spectrum/
+ 1780  ls
+ 1781  cd models/
+ 1782  ls
+ 1783  pwd
+ 1784  ls
+ 1785  cd ..
+ 1786  ls
+ 1787  cd views/
+ 1788  ls
+ 1789  nano sales_order_action.xml 
+ 1790  more  sales_order_action.xml 
+ 1791  nano sales_order_action.xml 
+ 1792  history
+ 1793  history > /root/historytemp1.txt
